@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: TimuS
+Build-Jdk: 12
+Implementation-Title: capstore
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.cg
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/capstore
+Created-By: Maven Integration for Eclipse
+
